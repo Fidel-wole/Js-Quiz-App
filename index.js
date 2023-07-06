@@ -50,7 +50,7 @@ let questions = [
     answer: "Time Management",
     options: [
       "Goal setting",
-      "Time Management ",
+      "Time Management",
       "Time",
       "Timepiece",
     ],
