@@ -13,7 +13,7 @@ const timeCount = document.querySelector(".timer .timer_sec");
 let questions = [
   {
     numb: 1,
-    question: "........... is the conscious experience of duration, the period in which an action or event occurred.?",
+    question: "...... is the conscious experience of duration, the period in which an action or event occurred?",
     answer: "Time",
     options: [
       "Management System",
@@ -35,8 +35,7 @@ let questions = [
   },
   {
     numb: 3,
-    question: "............ is the skilful handling or use of resources such as people (human
-capital), money, materials, and time.?",
+    question: "............ is the skilful handling or use of resources such as people (human capital), money, materials, and time.?",
     answer: "Management",
     options: [
       "Time",
