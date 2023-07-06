@@ -13,8 +13,7 @@ const timeCount = document.querySelector(".timer .timer_sec");
 let questions = [
   {
     numb: 1,
-    question: "........... is the conscious experience of duration, the period in which an action or
-event occurred.?",
+    question: "........... is the conscious experience of duration, the period in which an action or event occurred.?",
     answer: "Time",
     options: [
       "Management System",
