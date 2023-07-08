@@ -77,6 +77,72 @@ let questions = [
       "None of the above",
     ],
   },
+   {
+    numb: 7,
+    question: "...... is a tabulated list of the times at which an event or activities are required to occur",
+    answer: "Timetable",
+    options: [
+      "Timepiece",
+      "Timetable",
+      "To do list",
+      "Organizer",
+    ],
+  },
+   {
+    numb: 8,
+    question: "...... is any instrument for recording or showing the time, especially one that does not strike or chime.",
+    answer: "Timepiece",
+    options: [
+      "Timepiece",
+      "Pendulum clock",
+      "Alarm",
+      "None of the above",
+    ],
+  },
+   {
+    numb: 9,
+    question: "...... is a small portable calendar and databook used for planning, or a handheld computerized device with a simple database for managing appointments and other information",
+    answer: "Organizer",
+    options: [
+      "To-do list",
+      "Organizer",
+      "Notebook",
+      "Keeper",
+    ],
+  },
+   {
+    numb: 10,
+    question: "A realistic timetable should be all following except;",
+    answer: "Made to impress",
+    options: [
+      "Account for all your courses & necessary activities",
+      "Reflect your essential personality in content design",
+      "Made to impress",
+      "Account for individual attention span",
+    ],
+  },
+   {
+    numb: 11,
+    question: "Which of te following is not a note taking format",
+    answer: "Graphic or diagrammatic",
+    options: [
+      "Linear format",
+      "Outline format",
+      "Graphic or diagrammatic",
+      "A and B",
+    ],
+  },
+  {
+    numb: 13,
+    question: ""There is a tendency to concentrate on writing, rather than on listening and comprehension " in which of the following note taking format;",
+    answer: "Linear format",
+    options: [
+      "Linear format",
+      "Outline format",
+      "Graphic",
+      "Diagrammatic",
+    ],
+  },
 ];
 
 // if startQuiz button clicked
