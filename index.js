@@ -133,7 +133,7 @@ let questions = [
     ],
   },
   {
-    numb: 13,
+    numb: 12,
     question: ""There is a tendency to concentrate on writing, rather than on listening and comprehension " in which of the following note taking format;",
     answer: "Linear format",
     options: [
