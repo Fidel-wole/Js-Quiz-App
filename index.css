@@ -250,7 +250,8 @@ section .option_list .option .icon {
     font-size: 13px;
     pointer-events: none;
     transition: all 0.3s ease;
-    line-height: 24px;
+    /*line-height: 24px*/;
+    padding:0.2rem;
 }
 
 .option_list .option .icon.tick {
