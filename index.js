@@ -145,8 +145,7 @@ let questions = [
   },
 {
     numb: 13,
-    question: 'To ............ is to experience or to be aware of sounds, usually as a result of the
-stimulation of the auditory system by sound waves.',
+    question: 'To ............ is to experience or to be aware of sounds, usually as a result of thestimulation of the auditory system by sound waves.',
     answer: "Hear",
     options: [
       "Listen",
